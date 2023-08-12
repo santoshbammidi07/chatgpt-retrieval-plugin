@@ -1,4 +1,4 @@
-# ChatGPT Retrieval Plugin.
+# ChatGPT Retrieval Plugin
 
 > **Join the [ChatGPT plugins waitlist here](https://openai.com/waitlist/plugins)!**
 
